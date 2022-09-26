@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#form {
+    margin: 2% 30%;
+}
+
+#table {
+    width: 100%;
+    background-color: rgb(43, 211, 226);
+}
+
+@media(max-width:768px) {
+    #form {
+        width: 100% !important;
+        margin: 0%;
+        padding: 0%;
+    }
+}
