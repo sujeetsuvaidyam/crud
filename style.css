@@ -16,12 +16,12 @@
 
 @media(max-width:768px) {
     #form {
-        width: 100% !important;
+        width: 100%;
         margin: 0%;
         padding: 0%;
     }
     #table{
-        width: 100%;
+        width: 100% !important;
         margin: 0%;
     }
-}
+};

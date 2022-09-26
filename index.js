@@ -40,11 +40,11 @@ function table() {
   var table = `<table class="table">
     <thead>
       <tr>
-        <th scope="col" class="col-2">No</th>
-        <th scope="col" class="col-3">Name</th>
-        <th scope="col" class="col-2">Password</th>
-        <th scope="col" class="col-3">Edit</th>
-        <th scope="col" class="col-2">Delete</th>
+        <th class="col-sm-2">No</th>
+        <th class="col-sm-2">Name</th>
+        <th class="col-sm-2">Password</th>
+        <th class="col-sm-2">Edit</th>
+        <th class="col-sm-2">Delete</th>
       </tr>
     </thead>
     <tbody>`;
